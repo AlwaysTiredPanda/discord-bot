@@ -1,0 +1,28 @@
+{
+  "name": "ferretluna",
+  "version": "1.0.0",
+  "description": "just a cute little ferret",
+  "main": "src/ferretluna",
+  "dependencies": {
+    "diff": "^4.0.2",
+    "discord.js": "^12.2.0",
+    "eslint": "^7.6.0",
+    "eslint-config-tesseract": "^0.0.3",
+    "fetch": "^1.1.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "sequelize": "^6.3.4",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TiredPanda",
+  "license": "ISC"
+}
